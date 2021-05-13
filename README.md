@@ -2,17 +2,23 @@
 
 Nagi is my first Discord Music bot, trying to implement and learn js.
 
+<pre>
 Framework: Node.js
-Modules: **discord-music-player** (npm install discord-music-player), 
-          **discord.js** (npm install discord.js),
-          **opusscript** (npm install opusscript)
+</pre>            
 
-Commands available: **Play/Queue**,
-                     **Playlist**,
-                     **Stop**,
-                     **Skip**,
-                     **Shuffle**.
-                    
+<pre>
+Modules: discord-music-player (npm install discord-music-player), 
+         discord.js (npm install discord.js),
+         opusscript (npm install opusscript)
+</pre>
+
+<pre>
+Commands available: Play/Queue,
+                    Playlist,
+                    Stop,
+                    Skip,
+                    Shuffle
+</pre>            
                     
 That's my first real project to learn more programming. Feel free to used it.
 
