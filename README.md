@@ -13,11 +13,11 @@ Modules: discord-music-player (npm install discord-music-player),
 </pre>
 
 <pre>
-Commands available: Play/Queue,
-                    Playlist,
-                    Stop,
-                    Skip,
-                    Shuffle
+Commands available: Play/Queue (play),
+                    Playlist (pl),
+                    Stop (stop),
+                    Skip (skip),
+                    Shuffle (shuffle)
 </pre>            
                     
 That's my first real project to learn more programming. Feel free to used it.
